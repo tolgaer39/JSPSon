@@ -1,0 +1,1 @@
+<p><%="myjsp test inclusion"%></p>
